@@ -1,0 +1,5 @@
+{
+    "task_type": "NER",
+    "train_data_size": 16542,
+    "num_classes": 4
+}
