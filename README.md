@@ -1,5 +1,6 @@
 # EOSE-UWordMap
-어휘의미망을 이용한 주제 분류 및 감성 표현 영역 추출 모델
+
+## paper: [A Model for Topic Classification and Extraction of Sentimental Expression using a Lexical Semantic Network](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11495798).
 
 본 모델은 Google-BERT 코드를 기반으로 제작했으며, 논문 속 UBERT 관련 weight는 연구실 내에서 사용하는 모델이므로 첨부하지 못했다.
 본 소스코드는 run 부분을 수정한 부분을 첨부한 것이다. 
