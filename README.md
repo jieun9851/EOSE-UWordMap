@@ -1,4 +1,4 @@
-# 어휘의미망을 이용한 주제 분류 및 감성 표현 영역 추출 모델
+# 어휘의미망을 이용한 주제 분류 및 감성 표현 영역 추출 모델 (수정중)
 
 ## Paper: [A Model for Topic Classification and Extraction of Sentimental Expression using a Lexical Semantic Network](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11495798)
 
